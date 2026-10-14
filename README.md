@@ -1,3 +1,4 @@
+```markdown
 # 📄 Impactos da Exclusão Digital na Empregabilidade
 
 > **Uma Revisão sobre as Barreiras no Acesso ao Mercado de Trabalho Formal**
@@ -38,3 +39,41 @@ O projeto foi organizado em etapas acadêmicas bem definidas dentro do diretóri
 │   ├── Etapa6_Redacao_do_Artigo.md
 │   └── Etapa7_Normalizacao_e_Revisao.md
 └── README.md
+
+```
+
+### Resumo das Etapas:
+
+* **Etapa 1:** Definição do tema, área geral, recortes e delimitação do escopo.
+* **Etapa 2:** Formulação da pergunta e problema de pesquisa.
+* **Etapa 3:** Definição dos objetivos geral e específicos.
+* **Etapa 4:** Fichamento crítico dos três artigos científicos selecionados (2023–2024).
+* **Etapa 5:** Matriz de síntese, comparação entre estudos e definição de eixos temáticos.
+* **Etapa 6:** Redação completa do artigo (versão dentro do limite de 600 a 700 palavras).
+* **Etapa 7:** Normalização ABNT, conferência das referências e checklist de entrega.
+
+---
+
+## 🎯 Pergunta de Pesquisa
+
+> *Como a falta de domínio de ferramentas digitais e o baixo letramento tecnológico dificultam a inserção e a permanência dos trabalhadores no mercado de trabalho formal contemporâneo?*
+
+---
+
+## 📚 Referências Principais
+
+1. **CAROLINE, T. et al.** Competências em informação e digitais necessárias para atuação em ambientes digitais. *Perspectivas em Ciência da Informação*, Belo Horizonte, v. 29, 2024. [Link do Artigo](https://periodicos.ufmg.br/index.php/pci/article/view/53087)
+2. **DE MARCO, S. et al.** Jobless and burnt out: digital inequality and online access to the labor market. *Social Inclusion*, v. 11, n. 4, p. 184–197, 2023. DOI: [10.17645/si.v11i4.7017](https://doi.org/10.17645/si.v11i4.7017)
+3. **DUMONT, G.; DE MARCO, S.; HELSPER, E. J.** Online job search discouragement: how employment platforms and digital exclusion shape the experience of low-qualified job seekers?. *New Technology, Work and Employment*, v. 39, n. 1, p. 89–108, 2024. DOI: [10.1111/ntwe.12279](https://doi.org/10.1111/ntwe.12279)
+
+---
+
+## 🛠️ Licença
+
+Este trabalho acadêmico está licenciado sob a Licença **Creative Commons Attribution 4.0 International (CC BY 4.0)** — sinta-se à vontade para utilizar e citar a estrutura mantendo os devidos créditos aos autores.
+
+```
+
+É só salvar este conteúdo no arquivo **`README.md`** na raiz do seu repositório no GitHub!
+
+```
