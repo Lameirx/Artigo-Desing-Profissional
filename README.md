@@ -1,4 +1,3 @@
-```markdown
 # 📄 Impactos da Exclusão Digital na Empregabilidade
 
 > **Uma Revisão sobre as Barreiras no Acesso ao Mercado de Trabalho Formal**
