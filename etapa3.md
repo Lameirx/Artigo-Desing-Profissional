@@ -1,11 +1,5 @@
 # ETAPA 3 — OBJETIVO GERAL E OBJETIVOS ESPECÍFICOS
 
-## Solicitação
-
-Defina o objetivo geral e os objetivos específicos do artigo de revisão bibliográfica.
-
----
-
 ## Problema de pesquisa
 
 Como a falta de domínio de ferramentas digitais e o baixo letramento tecnológico dificultam a inserção e a permanência dos trabalhadores no mercado de trabalho formal contemporâneo?
