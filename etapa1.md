@@ -1,9 +1,3 @@
-Com base no repositório fornecido e nos seus dados reais (integrantes **Amanda Carvalho, Gabriel Monteiro e Melissa Chagas**, referências bibliográficas selecionadas de De Marco et al., Dumont et al. e do artigo da UFMG de Caroline et al., além dos eixos e revisões mapeados), refiz e **aprimorei a Etapa 1**.
-
-A estrutura foi totalmente alinhada ao nível acadêmico exigido, corrigindo ambiguidades, aprofundando a justificativa sem perder a objetividade e garantindo a perfeita coerência entre o tema amplo, objeto, delimitação e os desdobramentos praticados nas etapas seguintes do seu grupo.
-
----
-
 # ETAPA 1 — TEMA E DELIMITAÇÃO
 
 ## Solicitação
